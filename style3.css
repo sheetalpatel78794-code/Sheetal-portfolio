@@ -97,7 +97,7 @@ padding-top:20px ;
     width: 100vw;
     align-items: center;
     justify-content: center;
-    padding-left: 160px;    
+    margin-left: 100px;    
 }
 .heading{
     height: 10vh;
@@ -283,4 +283,5 @@ a{
 }
 html{
     scroll-behavior: smooth;
+
 }
